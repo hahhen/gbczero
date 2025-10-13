@@ -31,3 +31,16 @@ To build my project, I need:
 
   
 
+## 10/13/2025 - Began the schematic  
+
+Researched and learned a bit about PCB making. Made this so far, not sure if everything is correct.
+I'll continue to make the schematic until it's finished to begin making the PCB, as I learned I should do.
+
+Decided to dump the Adafruit Powerboost 1000c to reduce costs
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjExNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b92e3015a9ece048eedbc093e9aafe3e6079b80d/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjExNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4eae7c3edf797f440e7a76e1c3db35664029a599/image.png)
+  
+
