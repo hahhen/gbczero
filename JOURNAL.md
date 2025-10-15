@@ -44,3 +44,18 @@ Decided to dump the Adafruit Powerboost 1000c to reduce costs
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjExNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4eae7c3edf797f440e7a76e1c3db35664029a599/image.png)
   
 
+## 10/14/2025 - Continued the schematic (and fixed my laptop)  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9e5d9b9ed60beeb5925bdc49e21dc30f5ac5123/image.png)
+
+Added ground to the switches and and added the TP4056 module and battery, but I'm still working on it.
+Still don't quite understand how to connect everything right, but I'll make it. It's a gift for a girl i like.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3NywicHVyIjoiYmxvYl9pZCJ9fQ==--f830d04499c6f88c4f73a46b09887b05f95100ef/image.png)
+
+(I had a problem with my laptop and had to fix it also, but it's working fine now :D)
+
+![Imagem do WhatsApp de 2025-10-14 à(s) 23.35.51_e5de35e0.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--78e77ff11059d3526928ba71b3a0cbe6e57e7fd6/Imagem%20do%20WhatsApp%20de%202025-10-14%20%C3%A0(s)%2023.35.51_e5de35e0.jpg)
+
+  
+
