@@ -59,3 +59,12 @@ Still don't quite understand how to connect everything right, but I'll make it. 
 
   
 
+## 10/16/2025 - Changed power components.  
+
+Changed charging component from TP4056 to a MCP73833T-AMI_MF to support battery life information. Also changed my boost converter for a TPS61030 to support LBO. I'm not sure if the connections are right, but I'll check later. I'll also add a DAC for better audio.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--3d6061b0973608e74926306ce47494f50b52685e/image.png)
+
+
+  
+
