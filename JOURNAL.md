@@ -68,3 +68,15 @@ Changed charging component from TP4056 to a MCP73833T-AMI_MF to support battery 
 
   
 
+## 10/17/2025 - MOre shematics yayyy  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--6870a9f94adeccd2b0ce1f05730733f341dcd0cb/image.png)
+
+I kinda am finishing the power system, though i'm not sure if my connections are all right. Just discovrered that there is a simulator in kicad, WILL be useful. As you can probalby guess i'm super tired and not writing right, but basically what i thought of::
+
+led for charging
+another led, rgb, going to be white when on (idle) and red/orange when low battery. charging->low battery->idle is the hierarchy, only one at a time. will need to use logic gates, but i'm kinda experienced. i'll prob talk to my professor he'll lovethis project and will help me yayuy;;
+
+k bay
+  
+
