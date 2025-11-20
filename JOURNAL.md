@@ -31,3 +31,52 @@ To build my project, I need:
 
   
 
+## 10/13/2025 - Began the schematic  
+
+Researched and learned a bit about PCB making. Made this so far, not sure if everything is correct.
+I'll continue to make the schematic until it's finished to begin making the PCB, as I learned I should do.
+
+Decided to dump the Adafruit Powerboost 1000c to reduce costs
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjExNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b92e3015a9ece048eedbc093e9aafe3e6079b80d/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjExNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4eae7c3edf797f440e7a76e1c3db35664029a599/image.png)
+  
+
+## 10/14/2025 - Continued the schematic (and fixed my laptop)  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e9e5d9b9ed60beeb5925bdc49e21dc30f5ac5123/image.png)
+
+Added ground to the switches and and added the TP4056 module and battery, but I'm still working on it.
+Still don't quite understand how to connect everything right, but I'll make it. It's a gift for a girl i like.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3NywicHVyIjoiYmxvYl9pZCJ9fQ==--f830d04499c6f88c4f73a46b09887b05f95100ef/image.png)
+
+(I had a problem with my laptop and had to fix it also, but it's working fine now :D)
+
+![Imagem do WhatsApp de 2025-10-14 à(s) 23.35.51_e5de35e0.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--78e77ff11059d3526928ba71b3a0cbe6e57e7fd6/Imagem%20do%20WhatsApp%20de%202025-10-14%20%C3%A0(s)%2023.35.51_e5de35e0.jpg)
+
+  
+
+## 10/16/2025 - Changed power components.  
+
+Changed charging component from TP4056 to a MCP73833T-AMI_MF to support battery life information. Also changed my boost converter for a TPS61030 to support LBO. I'm not sure if the connections are right, but I'll check later. I'll also add a DAC for better audio.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--3d6061b0973608e74926306ce47494f50b52685e/image.png)
+
+
+  
+
+## 10/17/2025 - MOre shematics yayyy  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--6870a9f94adeccd2b0ce1f05730733f341dcd0cb/image.png)
+
+I kinda am finishing the power system, though i'm not sure if my connections are all right. Just discovrered that there is a simulator in kicad, WILL be useful. As you can probalby guess i'm super tired and not writing right, but basically what i thought of::
+
+led for charging
+another led, rgb, going to be white when on (idle) and red/orange when low battery. charging->low battery->idle is the hierarchy, only one at a time. will need to use logic gates, but i'm kinda experienced. i'll prob talk to my professor he'll lovethis project and will help me yayuy;;
+
+k bay
+  
+
