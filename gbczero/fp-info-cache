@@ -1,4 +1,4 @@
-26715153989665072
+26731014570213843
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70587,6 +70587,55 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+1pin
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+0
+0
+Library
+GameBoy-DMG-BTN
+
+
+0
+9
+2
+Library
+GameBoy-DMG-START-SEL
+
+
+0
+8
+2
+Library
+Socket_Strip_Straight_1x11
+Through hole socket strip
+socket strip
+0
+11
+11
+MAX17048G_T10
+SON50P200X200X80-9N
+
+
+0
+9
+9
+MCP73833T-AMI-MF
+SON50P300X300X100-11N
+
+
+0
+11
+11
+MMUN2133LT1G
+SOT95P240X111-3N
+
+
+0
+3
+3
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -93645,6 +93694,13 @@ Potentiometer vertical vishay
 0
 3
 3
+RASPBERRY_PI_ZERO_2_W
+MODULE_RASPBERRY_PI_ZERO_2_W
+
+
+0
+40
+40
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -99364,6 +99420,13 @@ Logo WEEE
 0
 0
 0
+TPS61030
+SOP65P640X120-17N
+
+
+0
+17
+17
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
