@@ -7424,7 +7424,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "36e0e4ab-8e46-4cce-8871-ccb31715838c")
@@ -7832,7 +7832,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "a88ef046-1d89-40b2-b320-14962bdfceca")
@@ -10488,7 +10488,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "220µF"
+		(property "Value" "220uF"
 			(at 0 -3.1 0)
 			(layer "B.Fab")
 			(uuid "191de144-468e-4b32-8b01-5dfea56be3bb")
@@ -10500,7 +10500,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -10513,7 +10513,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12601,7 +12601,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7µF"
+		(property "Value" "4.7uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "5b0871ef-d488-4c1c-a9e6-2b38af99acef")
@@ -13213,7 +13213,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "2.2µF"
+		(property "Value" "2.2uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "441f7df1-d341-4b16-8058-7704038faab8")
@@ -17149,7 +17149,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7µF"
+		(property "Value" "4.7uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "db83cfa6-24ce-428f-ae14-500d37c724d5")
@@ -17353,7 +17353,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10µF"
+		(property "Value" "10uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "3c45f985-0865-4b07-a540-3d077ef996b2")
@@ -18307,7 +18307,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -18320,7 +18320,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Polarized capacitor"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -18767,7 +18767,7 @@
 		(path "/4cf97dd6-b60a-46c4-9c6b-530347ff6c77")
 		(sheetname "/")
 		(sheetfile "gbczero.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole)
 		(fp_line
 			(start 6 7.7)
 			(end 6 -3.3)
@@ -19268,7 +19268,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19282,7 +19282,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, generic, two pins"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19707,7 +19707,7 @@
 			(net 57 "/PWR_EN")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e6df67a0-ceb3-45ff-b56c-716475b80658")
+			(uuid "2a1de6a7-d350-4c90-a7da-ddaf0249780a")
 		)
 		(pad "2" smd rect
 			(at -3 -1.875 180)
@@ -19725,7 +19725,7 @@
 			(net 2 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7e133d0f-3612-4363-ab7b-34f90979fed1")
+			(uuid "296a0dd5-320c-44b8-823d-56e9c150f907")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_XKB_TS-1187A.step"
@@ -135599,10 +135599,10 @@
 				(xy 121.834 111.591496) (xy 121.874925 111.744227) (xy 121.90386 111.794342) (xy 121.903861 111.794346)
 				(xy 121.903862 111.794346) (xy 121.953981 111.881156) (xy 121.953983 111.881159) (xy 122.072851 112.000027)
 				(xy 122.072857 112.000032) (xy 141.048683 130.975858) (xy 141.082168 131.037181) (xy 141.085002 131.063539)
-				(xy 141.085002 133.749443) (xy 141.085002 133.907557) (xy 141.123196 134.050097) (xy 141.125925 134.060283)
-				(xy 141.125928 134.06029) (xy 141.204977 134.197209) (xy 141.204981 134.197214) (xy 141.204982 134.197216)
-				(xy 141.316786 134.30902) (xy 141.316788 134.309021) (xy 141.316792 134.309024) (xy 141.369314 134.339347)
-				(xy 141.453718 134.388077) (xy 141.606445 134.429) (xy 144.450463 134.429) (xy 144.517502 134.448685)
+				(xy 141.085002 133.907557) (xy 141.123196 134.050097) (xy 141.125925 134.060283) (xy 141.125928 134.06029)
+				(xy 141.204977 134.197209) (xy 141.204981 134.197214) (xy 141.204982 134.197216) (xy 141.316786 134.30902)
+				(xy 141.316788 134.309021) (xy 141.316792 134.309024) (xy 141.369314 134.339347) (xy 141.453718 134.388077)
+				(xy 141.606445 134.429) (xy 141.764559 134.429) (xy 144.450463 134.429) (xy 144.517502 134.448685)
 				(xy 144.538144 134.465319) (xy 146.448683 136.375858) (xy 146.482168 136.437181) (xy 146.485002 136.463539)
 				(xy 146.485002 137.762497) (xy 146.485001 137.762501) (xy 146.485001 137.920615) (xy 146.495453 137.959625)
 				(xy 146.496115 137.972773) (xy 146.490913 137.99446) (xy 146.490383 138.016757) (xy 146.482923 138.027777)
